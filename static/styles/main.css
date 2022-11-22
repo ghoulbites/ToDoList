@@ -1,0 +1,12 @@
+:root {
+    --red-main: #c3073f;
+    --red-light: #6f2232;
+    --highlight: #950740;
+    --grey: #4e4e50;
+    --bcg: #1a1a1d;
+}
+
+body {
+    background-color: var(--bcg);
+    margin: 0;
+}
